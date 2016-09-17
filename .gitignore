@@ -1,0 +1,6 @@
+*.iml
+*.jar
+.idea/
+data/
+output*/
+out*/
