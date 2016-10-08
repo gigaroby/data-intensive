@@ -1,3 +1,5 @@
+// Bampi Roberto - <bampi@kth.se>
+// Buso Fabio - <buso@kth.se>
 import java.util.HashMap
 
 import org.apache.kafka.clients.producer.{KafkaProducer, ProducerConfig, ProducerRecord}
